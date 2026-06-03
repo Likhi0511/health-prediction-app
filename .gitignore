@@ -1,0 +1,16 @@
+# Environment Variables
+.env
+
+# Virtual Environment
+.venv/
+venv/
+
+# PyCharm
+.idea/
+
+# Database
+health.db
+
+# Python Cache
+__pycache__/
+*.pyc
